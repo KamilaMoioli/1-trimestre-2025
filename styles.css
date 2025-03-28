@@ -5,7 +5,7 @@
     --laranja-claro: #000000;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #00ffb3;
-    --alto-contraste-link: #0d63ef;
+    --alto-contraste-link: #0defeb;
 }
 
 body {
@@ -103,7 +103,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #09f7f310;
+    background-color: #09f7f347;
 
 }
 
@@ -126,7 +126,7 @@ h2 {
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
     /* Borda arredondada para o formulário */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(4, 249, 245, 0.13);
     /* Sombra suave para destacar o formulário */
     font-weight: bold;
 }
