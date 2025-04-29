@@ -121,25 +121,25 @@ h2 {
 }
 
 .formulario {
-    background-color: #04e9f12d;
+    background-color: #be5f0669;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
     /* Borda arredondada para o formulário */
-    box-shadow: 0 0 10px rgba(4, 249, 245, 0.13);
+    box-shadow: 0 0 10px rgba(249, 114, 4, 0.397);
     /* Sombra suave para destacar o formulário */
     font-weight: bold;
 }
 
 .formulario button {
     background-color: 
-    #04dcf8ca;
+    #f86604ca;
     border: none;
     font-weight: bold;
 }
 
 .form-control {
-    background-color: #07edf5fd;
+    background-color: #dd6808fd;
 }
 .menu-acessibilidade{
     position: fixed;
